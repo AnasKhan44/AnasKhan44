@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @AnasKhan44
 - 👀 I’m interested in programming
 - 🌱 I’m currently learning coding
-- 💞️ I’m looking to collaborate on idk
 - 📫 Reach me on my email : anaskhan.ak2005@gmail.com
 
 <!---
