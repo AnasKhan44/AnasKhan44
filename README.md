@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @AnasKhan44
+- 👋 Hi, I’m AK
 - 👀 I’m interested in programming
 - 🌱 I’m currently starting my Developer Career
 - 📫 Reach me on my email : anaskhan.ak2005@gmail.com
